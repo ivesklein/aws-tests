@@ -1,7 +1,5 @@
 # EC2
 
-# steps
-
 1. Log to the console
 2. go to ec2 service
 3. go to the desired zone
